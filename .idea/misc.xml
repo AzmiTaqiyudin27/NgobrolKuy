@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Azmi/Desktop/responsiprakmobile/app/src/main/res/layout/activity_confirm_change_password.xml" value="0.1" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
@@ -11,6 +12,14 @@
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/layout/activity_main.xml" value="0.34646739130434784" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/drawable/circle.xml" value="0.1945" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/drawable/ic_baseline_west_24.xml" value="0.1945" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_change_password.xml" value="0.24635416666666668" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_chat_personal.xml" value="0.24635416666666668" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_confirm_change_password.xml" value="0.24635416666666668" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_home_chat.xml" value="0.24635416666666668" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="..\:/kuliahsemester5/prak mobile/responsi/app/src/main/res/layout/activity_profile_pic.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>
